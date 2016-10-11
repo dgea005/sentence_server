@@ -1,0 +1,4 @@
+*.txt
+/books
+.ipynb_checkpoint
+.ds_store
