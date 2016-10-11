@@ -24,7 +24,7 @@ for item in zips:
 print('list of: {} .zips retrieved'.format(len(zip_files)))
 
 
-os.makedirs('books/output', exists_ok=True)
+os.makedirs('books/output', exist_ok=True)
 
 
 def unzipper(file):
